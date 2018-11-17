@@ -1,7 +1,7 @@
-<p align="center">
+
 # 120 Years of Olympic History
 ## Analysis by Brooke Moseley and Celia Gould
-</p>
+
 ### This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
 ### We also referenced a dataset with the National Olympic Committee...
 
@@ -28,10 +28,8 @@ The columns are:
 - Medal: Gold, Silver, Bronze, or NA
 ```
 
-
-
 ```markdown
-### Questions:
+### Our large dataset provides many, many opportunities for visualization with the many variables and athlete instances represented. Some of the questions we tried to answer were as follows:
 1. What factors contribute to the performance of an athlete?
 2. How are athletes changing, per sport, over time?
 ```
