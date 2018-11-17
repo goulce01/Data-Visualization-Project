@@ -1,7 +1,12 @@
 <html align="center">
    <head>
-      <title>120 Years of Olympic History</title>
+      <title>HTML <h1> to <h6> Tag</title>
    </head>
+
+   <body>
+      <h1>120 Years of Olympic History</h1>
+      <h2>Visualization by Celia Gould and Brooke Moseley</h2>
+   </body>
 
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png">
 </html>
