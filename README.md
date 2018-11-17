@@ -4,28 +4,26 @@
 
 Note that the Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on.
 
+```markdown
 The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event. 
 
 The columns are:
-ID - Unique number for each athlete
-Name - Athlete's name
-Sex - M or F
-Age - Integer
-Height - In centimeters
-Weight - In kilograms
-Team - Team name
-NOC - National Olympic Committee 3-letter code
-Games - Year and season
-Year - Integer
-Season - Summer or Winter
-City - Host city
-Sport - Sport
-Event - Event
-Medal - Gold, Silver, Bronze, or NA
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- ID: Unique number for each athlete
+- Name: Athlete's name
+- Sex: M or F
+- Age: Integer
+- Height: In centimeters
+- Weight: In kilograms
+- Team: Team name
+- NOC: National Olympic Committee 3-letter code
+- Games: Year and season
+- Year: Integer
+- Season: Summer or Winter
+- City: Host city
+- Sport
+- Event
+- Medal: Gold, Silver, Bronze, or NA
+```
 
 ```markdown
 Syntax highlighted code block
