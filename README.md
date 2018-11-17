@@ -1,8 +1,9 @@
 
-# 120 Years of Olympic History
-## Analysis by Brooke Moseley and Celia Gould
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png)
+<p align="center">
+  <h1>120 Years of Olympic History</h1>
+  <h3>Analysis by Brooke Moseley and Celia Gould</h3>
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png">
+</p>
 
 ### This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
 ### We also referenced a dataset with the National Olympic Committee...
