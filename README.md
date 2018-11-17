@@ -1,8 +1,8 @@
 <html>
-   <body align="center">
+   <body><center>
       <h1>120 Years of Olympic History</h1>
       <h2>Visualization by Celia Gould and Brooke Moseley</h2>
-   </body>
+   </center></body>
 
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png">
 </html>
