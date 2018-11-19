@@ -1,6 +1,7 @@
 <html>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png">
 </html>
+
 ## Visualization by Celia Gould and Brooke Moseley 
 
 ### This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
