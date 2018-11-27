@@ -4,10 +4,11 @@
 
 ## Visualization by Celia Gould and Brooke Moseley 
 
-#### This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event. 
+#### This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. 
+##### The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event. 
 
 ```markdown
-**The columns are:**
+#### The columns are:
 - ID: Unique number for each athlete
 - Name: Athlete's name
 - Sex: M or F
@@ -29,7 +30,7 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 #### We also pulled data from a Wikipedia page detailing the [2016 Summer Olympics Women's Marathon results.](https://en.wikipedia.org/wiki/Athletics_at_the_2016_Summer_Olympics_–_Women%27s_marathon) This data provided us with the finishing times of the competitors, which were not included in the original dataset. 
 
 ```markdown
-**Our large dataset provides many, many opportunities for visualization with the many variables and athlete instances represented. Some of the questions we tried to answer were as follows:**
+#### The questions we tried to answer were as follows:
 
 1. What factors contribute to the performance of an athlete?
 2. How are athletes changing, per sport, over time?
