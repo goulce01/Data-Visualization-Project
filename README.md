@@ -5,8 +5,8 @@
 ## Visualization by Celia Gould and Brooke Moseley 
 
 ### This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
-### We also referenced a dataset with the National Olympic Committee...
-### Finally, we pulled data from the Wikipedia page detailing the 2016 Summer Olympics women's marathon results.  https://en.wikipedia.org/wiki/Athletics_at_the_2016_Summer_Olympics_–_Women%27s_marathon
+### We also referenced a dataset with the National Olympic Committee (NOC) 
+### Finally, we pulled data from the Wikipedia page detailing the 2016 Summer Olympics women's marathon [results.](https://en.wikipedia.org/wiki/Athletics_at_the_2016_Summer_Olympics_–_Women%27s_marathon)  
 
 Note that the Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on.
 
