@@ -37,7 +37,7 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 - Nationality
 - Time
 ```
-### Time was the information that this dataset provided that was not included in the original dataset. 
+_Time was the information that this dataset provided that was not included in the original dataset._
 <br/>
 ## The questions we tried to answer were as follows:
 ```markdown
