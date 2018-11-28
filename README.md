@@ -28,10 +28,10 @@
 _Note that the Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on._
 <br/>
 ## We also pulled data from a Wikipedia page detailing the [2016 Summer Olympics Women's Marathon results.](https://en.wikipedia.org/wiki/Athletics_at_the_2016_Summer_Olympics_–_Women%27s_marathon) 
-### This data provided us with the finishing times of the competitors, which were not included in the original dataset. This dataset included:
-```javascript
- Rank | Athlete Name | Nationality | Time 
-------|--------------|-------------|-----  
+### This data provided us with the finishing times of the competitors, which were not included in the original dataset. 
+```markdown
+### This dataset included:
+| Rank | Athlete Name | Nationality | Time |
 ```
 <br/>
 ## The questions we tried to answer were as follows:
