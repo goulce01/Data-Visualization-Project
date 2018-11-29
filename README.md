@@ -46,32 +46,18 @@ _Time was the information that this dataset provided that was not included in th
 2. How are athletes changing, per sport, over time?
 ```
 <br/>
-## These visualizations examine the different weight distributions between medalists and non-medalists in the Men's Slalom Alpine Skiing event. 
+## These visualizations examine the different weight distributions between medalists and non-medalists in the men's slalom alpine skiing event. 
 ### Medaled 
 ![Image](Men's Slalom Medal Weight.png)
 ### Did Not Medal 
 ![Image](Men's Slalom No Medal Weight.png)
 
 <br/>
-
-
-```markdown
-Syntax highligUnknown.pnghted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Number
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## These visualizations examine the age distributions between women marathoners and medalists in the women's marathon.
+### Women's Marathon Age Distribution
+![Image](Women's Marathon Age Distribution.png)
+### Women's Marathon Medalists Age Distribution
+![Image](Women's Marathon Medalist Distribution.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
