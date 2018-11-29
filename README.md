@@ -46,12 +46,13 @@ _Time was the information that this dataset provided that was not included in th
 2. How are athletes changing, per sport, over time?
 ```
 <br/>
-Our first visualization examines 
+These visualizations examine the different weight distributions between medalists and non-medalists in the Men's Slalom Alpine Skiing event. 
 
-![Image](Unknown.png)
+![Image](Men's Slalom Medal Weight.png)
+![Image](Men's Slalom No Medal Weight.png)
 
 ```markdown
-Syntax highlighted code block
+Syntax highligUnknown.pnghted code block
 
 # Header 1
 ## Header 2
