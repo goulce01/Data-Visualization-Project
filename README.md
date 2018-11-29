@@ -39,12 +39,15 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 ```
 _Time was the information that this dataset provided that was not included in the original dataset._
 <br/>
+<br/>
 ## The questions we tried to answer were as follows:
 ```markdown
 1. What factors contribute to the performance of an athlete?
 2. How are athletes changing, per sport, over time?
 ```
 <br/>
+Our first visualization examines 
+![Image](~/Desktop/Data Vizualization/Screen Shot 2018-11-29 at 11.16.54 AM.png)
 
 ```markdown
 Syntax highlighted code block
