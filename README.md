@@ -54,10 +54,19 @@ _Time was the information that this dataset provided that was not included in th
 
 <br/>
 ## These visualizations examine the age distributions between women marathoners and medalists in the women's marathon.
-### Women's Marathon Age Distribution
+### Women's Marathoner Ages
 ![Image](Women's Marathon Age Distribution.png)
-### Women's Marathon Medalists Age Distribution
+### Women's Marathon Medalist's Ages
 ![Image](Women's Marathon Medalist Distribution.png)
+
+<br/>
+## These visualizations examine the change in average BMI over time between men and women in two different sports. 
+### Swim BMI
+![Image](Swim BMI.png)
+### Gymnastics BMI
+![Image](Gymnastics BMI.png)
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
