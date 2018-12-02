@@ -5,6 +5,7 @@
 <p align="center">
 <font size="20" color="White" face="Trebuchet MS" style="border:2px solid DodgerBlue">120 Years of Olympic History</font>
 </p>
+<br/>
 ## This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
 ### The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event.
 <p align="left">
@@ -44,7 +45,7 @@ _Time was the information that this dataset provided that was not included in th
 <br/>
 <br/>
 <p align="left">
-<font size="5" color="white">The questions we tried to answer were as follows:</font> 
+<font size="6" color="white">The questions we tried to answer were as follows:</font> 
 </p>
 ```markdown
 1. What factors contribute to the performance of an athlete?
@@ -57,7 +58,7 @@ _Time was the information that this dataset provided that was not included in th
 </p>
 <br/>
 <p align="center">
-  <font size="4">Medal Counts by Country for Men and Women's Marathon</font>
+  <font size="6">Medal Counts by Country for Men and Women's Marathon</font>
   <img src="Women's Marathon Medal Count.png" width="90%"> 
   <img src="Men's Marathon Medal Count.png" width="90%"/>
 </p>
