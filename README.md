@@ -61,14 +61,13 @@ _Time was the information that this dataset provided that was not included in th
 </p>
 
 <figure align="center">
-  <img src="Gymnastics BMI.png" alt="Gymnastics" style="width:100%">
+  <img src="Gymnastics BMI.png" alt="Gymnastics" style="width:45%">
+  <figcaption>Gymnastics BMI</figcaption>
+  <img src="Gymnastics BMI.png" alt="Gymnastics" style="width:45%">
   <figcaption>Gymnastics BMI</figcaption>
 </figure>
 
-<figure align="center">
-  <img src="Gymnastics BMI.png" alt="Gymnastics" style="width:100%">
-  <figcaption>Gymnastics BMI</figcaption>
-</figure>
+
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goulce01/DataVisualizationProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
