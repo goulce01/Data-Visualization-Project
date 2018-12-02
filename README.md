@@ -46,12 +46,6 @@ _Time was the information that this dataset provided that was not included in th
 2. How are athletes changing, per sport, over time?
 ```
 <br/>
-## These visualizations examine the different weight distributions between medalists and non-medalists in the men's slalom alpine skiing event. 
-### Medaled 
-![Image](Men's Slalom Medal Weight.png)
-### Did Not Medal 
-![Image](Men's Slalom No Medal Weight.png)
-
 <br/>
 ## These visualizations examine the age distributions between women marathoners and medalists in the women's marathon.
 <p align="center">
@@ -61,13 +55,20 @@ _Time was the information that this dataset provided that was not included in th
 
 <br/>
 ## These visualizations examine the change in average BMI over time between men and women in two different sports. 
-<p float="center">
+<p align="center">
   <img src="Gymnastics BMI.png" width="280" title="Gymnastics BMI" hspace="20"/>
   <img src="Swim BMI.png" width="280" title="Swim BMI" hspace="20"/> 
 </p>
 
+<figure align="center">
+  <img src="Gymnastics BMI.png" alt="Gymnastics" style="width:100%">
+  <figcaption>Gymnastics BMI</figcaption>
+</figure>
 
-
+<figure align="center">
+  <img src="Gymnastics BMI.png" alt="Gymnastics" style="width:100%">
+  <figcaption>Gymnastics BMI</figcaption>
+</figure>
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goulce01/DataVisualizationProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
