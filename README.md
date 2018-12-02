@@ -3,13 +3,15 @@
 </html>
 <br/>
 <p align="center">
-<font size="95" color="LightGray" face="Trebuchet MS" style="border:2px solid DodgerBlue">120 Years of Olympic History</font>
+<font size="6" color="Gray" face="Trebuchet MS" style="border:2px solid DodgerBlue">120 Years of Olympic History</font>
 </p>
 <p align="left">
-<font size="1">This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.</font>
-<font size="2">The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event.</font> 
+<font size="4">This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.</font>
+<font size="3">The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event.</font> 
+</p>
 <br/>
-<font size="7">The dataset included:</font> 
+<p align="left">
+<font size="4" color="White">The dataset included:</font> 
 </p>
 ```markdown
 - ID: Unique number for each athlete
