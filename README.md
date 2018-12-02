@@ -49,8 +49,8 @@ _Time was the information that this dataset provided that was not included in th
 <br/>
 ## Medal Counts by Country for Men and Women's Marathon
 <p align="center">
-  <img src="Women's Marathon Medal Count.png" width="280" hspace="20"/> 
-  <img src="Men's Marathon Medal Count.png" width="280" hspace="20"/>
+  <img src="Women's Marathon Medal Count.png" width="285" hspace="20"/> 
+  <img src="Men's Marathon Medal Count.png" width="295" hspace="20"/>
 </p>
 ### 
 <br/>
