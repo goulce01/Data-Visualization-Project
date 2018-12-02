@@ -43,8 +43,8 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 ```
 _Time was the information that this dataset provided that was not included in the original dataset._
 <br/><br/><br/>
-<p style="background-color:Gold">
-<font align="middle" size="6" color="White">Questions</font><br/>
+<p style="border:2px solid Gold">
+<font align="center" size="6" color="White">Questions</font><br/>
 <font align="left" size="5">1. What factors contribute to the performance of an athlete?</font><br/>
 <font align="left" size="5">2. How are athletes changing, per sport, over time?</font><br/>
 </p>
