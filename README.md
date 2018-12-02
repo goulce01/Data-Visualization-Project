@@ -42,15 +42,12 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 - Time
 ```
 _Time was the information that this dataset provided that was not included in the original dataset._
-<br/>
-<br/>
+<br/><br/><br/>
 <p align="left">
-<font size="6" color="white">The questions we tried to answer were as follows:</font> 
+<font size="5" color="white">The questions we tried to answer were as follows:</font><br/>
+<font size="4">1. What factors contribute to the performance of an athlete?</font><br/>
+<font size="4">2. How are athletes changing, per sport, over time?</font><br/>
 </p>
-```markdown
-1. What factors contribute to the performance of an athlete?
-2. How are athletes changing, per sport, over time?
-```
 ### As a result of the size of our dataset we aimed to narrow our scope by focusing on Women's Marathon specifically. This was the sport in which we analyzed the most extensively. 
 <br/><br/>
 <p align="center">
@@ -58,7 +55,7 @@ _Time was the information that this dataset provided that was not included in th
 </p>
 <br/>
 <p align="center">
-  <font size="6">Medal Counts by Country for Men and Women's Marathon</font>
+  <font size="5">Medal Counts by Country for Men and Women's Marathon</font><br/>
   <img src="Women's Marathon Medal Count.png" width="90%"> 
   <img src="Men's Marathon Medal Count.png" width="90%"/>
 </p>
@@ -70,16 +67,15 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 </p>
 <br/>
 <p align="center">
-  <font size="4">Change in Average BMI Over Time for Men and Women's Marathon</font>
+  <font size="5">Change in Average BMI Over Time for Men and Women's Marathon</font><br/>
   <img src="Marathon BMI.png" width="90%"/>
 </p>
 <br/>
 <p align="center">
-  <font size="4">Height Distributions of Men and Women's Marathon Medalists vs. Non-Medalists</font>
+  <font size="4">Height Distributions of Men and Women's Marathon Medalists vs. Non-Medalists</font><br/>
   <img src="Height Dist of Non Medalists.png" width="50%"/> 
   <img src="Height Dist by Medal Type.png" width="50%"/>
 </p>
-### 
 <br/>
 ## Weight Distributions of Men and Women's Marathon Medalists vs. Non-Medalists
 <p align="center">
