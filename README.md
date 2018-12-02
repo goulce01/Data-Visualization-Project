@@ -48,31 +48,31 @@ _Time was the information that this dataset provided that was not included in th
 2. How are athletes changing, per sport, over time?
 ```
 ### As a result of the size of our dataset we aimed to narrow our scope by focusing on Women's Marathon specifically. This was the sport in which we analyzed the most extensively. 
-<br/>
+<br/><br/>
 <p align="center">
 <font size="60" color="Tomato">Context Information</font>
 </p>
 <br/>
 ## Medal Counts by Country for Men and Women's Marathon
 <p align="center">
-  <img src="Women's Marathon Medal Count.png" width="100%"> 
-  <img src="Men's Marathon Medal Count.png" width="100%"/>
+  <img src="Women's Marathon Medal Count.png" width="90%"> 
+  <img src="Men's Marathon Medal Count.png" width="90%"/>
 </p>
-### 
-<br/>
+_The Unified Team was the name used for the sports team of the former Soviet Union at the 1992 Winter Olympics in Albertville and the 1992 Summer Olympics in Barcelona._
+### These graphs show use the countries that are most represented in our future graphs that are broken down by medal type.
+<br/><br/>
 <p align="center">
 <font size="60" color="Tomato">Answering our Questions</font>
 </p>
 <br/>
 ## Change in Average BMI Over Time for Men and Women's Marathon
 <p align="center">
-  <img src="Marathon BMI.png" width="100%"/>
+  <img src="Marathon BMI.png" width="90%"/>
 </p>
-
 <br/>
 ## Height Distributions of Men and Women's Marathon Medalists vs. Non-Medalists
 <p align="center">
-  <img src="Height Dist of Non Medalists.png" width="45%" hspace="20"/> 
+  <img src="Height Dist of Non Medalists.png" width="45%"/> 
   <img src="Height Dist by Medal Type.png" width="45%"/>
 </p>
 ### 
@@ -97,8 +97,7 @@ _Time was the information that this dataset provided that was not included in th
   <img src="BMI Dist by Medal Type.png" width="280" hspace="20"/>
 </p>
 ### 
-<br/>
-<br/>
+<br/><br/>
 <p align="center">
 <font size="60" color="Tomato">Summary</font>
 </p>
