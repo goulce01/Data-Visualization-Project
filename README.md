@@ -5,8 +5,8 @@
 <p align="center">
 <font size="20" color="White" face="Trebuchet MS" style="border:2px solid DodgerBlue">120 Years of Olympic History</font>
 </p>
-# This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
-## The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event.
+## This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
+### The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event.
 <p align="left">
 <font size="4">The dataset included:</font> 
 </p>
@@ -30,7 +30,7 @@
 _Note that the Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on._
 <br/>
 <br/>
-# We also pulled data from a Wikipedia page detailing the [2016 Summer Olympics Women's Marathon results.](https://en.wikipedia.org/wiki/Athletics_at_the_2016_Summer_Olympics_–_Women%27s_marathon)
+## We also pulled data from a Wikipedia page detailing the [2016 Summer Olympics Women's Marathon results.](https://en.wikipedia.org/wiki/Athletics_at_the_2016_Summer_Olympics_–_Women%27s_marathon)
 <p align="left">
 <font size="4">The dataset included:</font> 
 </p>
@@ -56,9 +56,8 @@ _Time was the information that this dataset provided that was not included in th
 <font size="15" color="Tomato">Context Information</font>
 </p>
 <br/>
-## Medal Counts by Country for Men and Women's Marathon
 <p align="center">
-  <font size="5">Medal Counts by Country for Men and Women's Marathon</font>
+  <font size="4">Medal Counts by Country for Men and Women's Marathon</font>
   <img src="Women's Marathon Medal Count.png" width="90%"> 
   <img src="Men's Marathon Medal Count.png" width="90%"/>
 </p>
@@ -69,15 +68,15 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 <font size="15" color="Tomato">Answering our Questions</font>
 </p>
 <br/>
-## Change in Average BMI Over Time for Men and Women's Marathon
 <p align="center">
+  <font size="4">Change in Average BMI Over Time for Men and Women's Marathon</font>
   <img src="Marathon BMI.png" width="90%"/>
 </p>
 <br/>
-## Height Distributions of Men and Women's Marathon Medalists vs. Non-Medalists
 <p align="center">
-  <img src="Height Dist of Non Medalists.png" width="45%"/> 
-  <img src="Height Dist by Medal Type.png" width="45%"/>
+  <font size="4">Height Distributions of Men and Women's Marathon Medalists vs. Non-Medalists</font>
+  <img src="Height Dist of Non Medalists.png" width="50%"/> 
+  <img src="Height Dist by Medal Type.png" width="50%"/>
 </p>
 ### 
 <br/>
