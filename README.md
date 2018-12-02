@@ -66,7 +66,11 @@ _Time was the information that this dataset provided that was not included in th
 ### Gymnastics BMI
 ![Image](Gymnastics BMI.png)
 
-![alt-text-1](Swim BMI.png "title-1") ![alt-text-2](Gymnastics BMI.png "title-2")
+
+<p float="left">
+  <img src="/Gymnastics BMI.png" width="100" />
+  <img src="/Swim BMI.png" width="100" /> 
+</p>
 
 
 
