@@ -47,6 +47,12 @@ _Time was the information that this dataset provided that was not included in th
 ```
 ### As a result of the very large size of our dataset we aimed to narrow our scope by focusing on Women's Marathon specifically. This was the sport in which we analyzed the most extensively. 
 <br/>
+## Medal Counts by Country for Men and Women's Marathon
+<p align="center">
+  <img src="Women's Marathon Medal Count.png" width="280" hspace="20"/> 
+  <img src="Men's Marathon Medal Count.png" width="280" hspace="20"/>
+</p>
+### 
 <br/>
 ## This visualization examines the change in average BMI over time between men and women in the marathon.
 <p align="center">
