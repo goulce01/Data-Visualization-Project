@@ -6,8 +6,8 @@
 <font size="95" color="LightGray" face="Trebuchet MS" style="border:2px solid DodgerBlue">120 Years of Olympic History</font>
 </p>
 <p align="left">
-<font size="20">This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.</font>
-<font size="15">The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event.</font> 
+<font size="1">This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.</font>
+<font size="2">The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event.</font> 
 <br/>
 <font size="7">The dataset included:</font> 
 </p>
