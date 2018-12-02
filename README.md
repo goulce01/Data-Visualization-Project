@@ -56,7 +56,7 @@ _Time was the information that this dataset provided that was not included in th
 ## Medal Counts by Country for Men and Women's Marathon
 <p align="center">
   <img src="Women's Marathon Medal Count.png" width="100%"> 
-  <img src="Men's Marathon Medal Count.png" style="100%"/>
+  <img src="Men's Marathon Medal Count.png" width="100%"/>
 </p>
 ### 
 <br/>
@@ -66,14 +66,14 @@ _Time was the information that this dataset provided that was not included in th
 <br/>
 ## Change in Average BMI Over Time for Men and Women's Marathon
 <p align="center">
-  <img src="Marathon BMI.png" width="320" hspace="20"/>
+  <img src="Marathon BMI.png" width="100%"/>
 </p>
 
 <br/>
 ## Height Distributions of Men and Women's Marathon Medalists vs. Non-Medalists
 <p align="center">
-  <img src="Height Dist of Non Medalists.png" width="280" hspace="20"/> 
-  <img src="Height Dist by Medal Type.png" width="280" hspace="20"/>
+  <img src="Height Dist of Non Medalists.png" width="45%" hspace="20"/> 
+  <img src="Height Dist by Medal Type.png" width="45%"/>
 </p>
 ### 
 <br/>
