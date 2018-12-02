@@ -59,6 +59,11 @@ _Time was the information that this dataset provided that was not included in th
 ### Women's Marathon Medalist's Ages
 ![Image](Women's Marathon Medalist Distribution.png)
 
+<p float="center">
+  <img src="Women's Marathon Age Distribution.png" width="250" title="Women's Marathoner Ages" />
+  <img src="Women's Marathon Medalist Distribution.png" width="250" /> 
+</p>
+
 <br/>
 ## These visualizations examine the change in average BMI over time between men and women in two different sports. 
 ### Swim BMI
