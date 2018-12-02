@@ -60,21 +60,15 @@ _Time was the information that this dataset provided that was not included in th
 ![Image](Women's Marathon Medalist Distribution.png)
 
 <p float="center">
-  <img src="Women's Marathon Age Distribution.png" width="250" title="Women's Marathoner Ages" hspace="20"/>
-  <img src="Women's Marathon Medalist Distribution.png" width="250" /> 
+  <img src="Women's Marathon Age Distribution.png" width="280" title="Women's Marathoner Ages" hspace="20"/>
+  <img src="Women's Marathon Medalist Distribution.png" width="280" /> 
 </p>
 
 <br/>
 ## These visualizations examine the change in average BMI over time between men and women in two different sports. 
-### Swim BMI
-![Image](Swim BMI.png)
-### Gymnastics BMI
-![Image](Gymnastics BMI.png)
-
-
 <p float="center">
-  <img src="Gymnastics BMI.png" width="300" title="Gymnastics BMI" hspace="20"/>
-  <img src="Swim BMI.png" width="300" title="Swim BMI" hspace="20"/> 
+  <img src="Gymnastics BMI.png" width="280" title="Gymnastics BMI" hspace="20"/>
+  <img src="Swim BMI.png" width="280" title="Swim BMI" hspace="20"/> 
 </p>
 
 
