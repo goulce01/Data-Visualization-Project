@@ -54,10 +54,8 @@ _Time was the information that this dataset provided that was not included in th
 
 <br/>
 ## These visualizations examine the age distributions between women marathoners and medalists in the women's marathon.
-<p float="center">
-  ### Women's Marathoner Ages
+<p align="center">
   <img src="Women's Marathon Age Distribution.png" width="280" title="Women's Marathoner Ages" hspace="20"/>
-  ### Women's Marathon Medalist's Ages
   <img src="Women's Marathon Medalist Distribution.png" width="280" /> 
 </p>
 
