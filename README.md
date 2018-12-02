@@ -48,13 +48,6 @@ _Time was the information that this dataset provided that was not included in th
 ### As a result of the very large size of our dataset we aimed to narrow our scope by focusing on Women's Marathon specifically. This was the sport in which we analyzed the most extensively. 
 <br/>
 <br/>
-## These visualizations examine the age distributions between women marathoners and medalists in the women's marathon.
-<p align="center">
-  <img src="Women's Marathon Age Distribution.png" width="280" hspace="20"/>
-  <img src="Women's Marathon Medalist Distribution.png" width="280" /> 
-</p>
-
-<br/>
 ## These visualizations examine the change in average BMI over time between men and women in two different sports. 
 <p align="center">
   <img src="Gymnastics BMI.png" width="280" hspace="20"/>
@@ -67,24 +60,29 @@ _Time was the information that this dataset provided that was not included in th
   <img src="Height Dist of Non Medalists.png" width="280" hspace="20"/> 
   <img src="Height Dist by Medal Type.png" width="280" hspace="20"/>
 </p>
-
+### 
 <br/>
 ## Weight Distributions of Men and Women's Marathon Medalists vs. Non-Medalists
 <p align="center">
   <img src="Weight Dist of Non Medalists.png" width="280" hspace="20"/> 
   <img src="Weight Dist by Medal Type.png" width="280" hspace="20"/>
 </p>
-
+### 
 <br/>
 ## Age Distributions of Men and Women's Marathon Medalists vs. Non-Medalists
 <p align="center">
   <img src="Age Dist of Non Medalists.png" width="280" hspace="20"/> 
   <img src="Age Dist by Medal Type.png" width="280" hspace="20"/>
 </p>
-
+### 
 <br/>
 ## BMI Distributions of Men and Women's Marathon Medalists vs. Non-Medalists
 <p align="center">
   <img src="BMI Dist of Non Medalists.png" width="280" hspace="20"/> 
   <img src="BMI Dist by Medal Type.png" width="280" hspace="20"/>
 </p>
+### 
+<br/>
+<br/>
+## Summary:
+### Our 
