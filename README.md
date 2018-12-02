@@ -45,33 +45,46 @@ _Time was the information that this dataset provided that was not included in th
 1. What factors contribute to the performance of an athlete?
 2. How are athletes changing, per sport, over time?
 ```
+### As a result of the very large size of our dataset we aimed to narrow our scope by focusing on Women's Marathon specifically. This was the sport in which we analyzed the most extensively. 
 <br/>
 <br/>
 ## These visualizations examine the age distributions between women marathoners and medalists in the women's marathon.
 <p align="center">
-  <img src="Women's Marathon Age Distribution.png" width="280" title="Women's Marathoner Ages" hspace="20"/>
+  <img src="Women's Marathon Age Distribution.png" width="280" hspace="20"/>
   <img src="Women's Marathon Medalist Distribution.png" width="280" /> 
 </p>
 
 <br/>
 ## These visualizations examine the change in average BMI over time between men and women in two different sports. 
 <p align="center">
-  <img src="Gymnastics BMI.png" width="280" title="Gymnastics BMI" hspace="20"/>
-  <img src="Swim BMI.png" width="280" title="Swim BMI" hspace="20"/> 
+  <img src="Gymnastics BMI.png" width="280" hspace="20"/>
+  <img src="Swim BMI.png" width="280" hspace="20"/> 
 </p>
 
-<figure align="center">
-  <img src="Gymnastics BMI.png" alt="Gymnastics" style="width:45%">
-  <figcaption>Gymnastics BMI</figcaption>
-  <img src="Gymnastics BMI.png" alt="Gymnastics" style="width:45%">
-  <figcaption>Gymnastics BMI</figcaption>
-</figure>
+<br/>
+## Height Distributions of Men and Women's Marathon Medalists vs. Non-Medalists
+<p align="center">
+  <img src="Height Dist of Non Medalists.png" width="280" hspace="20"/> 
+  <img src="Height Dist by Medal Type.png" width="280" hspace="20"/>
+</p>
 
+<br/>
+## Weight Distributions of Men and Women's Marathon Medalists vs. Non-Medalists
+<p align="center">
+  <img src="Weight Dist of Non Medalists.png" width="280" hspace="20"/> 
+  <img src="Weight Dist by Medal Type.png" width="280" hspace="20"/>
+</p>
 
+<br/>
+## Age Distributions of Men and Women's Marathon Medalists vs. Non-Medalists
+<p align="center">
+  <img src="Age Dist of Non Medalists.png" width="280" hspace="20"/> 
+  <img src="Age Dist by Medal Type.png" width="280" hspace="20"/>
+</p>
 
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goulce01/DataVisualizationProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br/>
+## BMI Distributions of Men and Women's Marathon Medalists vs. Non-Medalists
+<p align="center">
+  <img src="BMI Dist of Non Medalists.png" width="280" hspace="20"/> 
+  <img src="BMI Dist by Medal Type.png" width="280" hspace="20"/>
+</p>
