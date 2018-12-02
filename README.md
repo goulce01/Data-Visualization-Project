@@ -66,6 +66,8 @@ _Time was the information that this dataset provided that was not included in th
 ### Gymnastics BMI
 ![Image](Gymnastics BMI.png)
 
+![alt-text-1](Swim BMI.png "title-1") ![alt-text-2](Gymnastics BMI.png "title-2")
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
