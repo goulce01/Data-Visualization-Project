@@ -68,15 +68,13 @@ _Time was the information that this dataset provided that was not included in th
 
 
 <p float="left">
-  <img src="/Gymnastics BMI.png" width="100" />
-  <img src="/Swim BMI.png" width="100" /> 
+  <img src="Gymnastics BMI.png" width="100" />
+  <img src="Swim BMI.png" width="100" /> 
 </p>
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goulce01/DataVisualizationProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
