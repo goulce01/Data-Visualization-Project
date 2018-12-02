@@ -48,10 +48,9 @@ _Time was the information that this dataset provided that was not included in th
 ### As a result of the very large size of our dataset we aimed to narrow our scope by focusing on Women's Marathon specifically. This was the sport in which we analyzed the most extensively. 
 <br/>
 <br/>
-## These visualizations examine the change in average BMI over time between men and women in two different sports. 
+## This visualization examines the change in average BMI over time between men and women in the marathon.
 <p align="center">
-  <img src="Gymnastics BMI.png" width="280" hspace="20"/>
-  <img src="Swim BMI.png" width="280" hspace="20"/> 
+  <img src="Marathon BMI.png" width="320" hspace="20"/>
 </p>
 
 <br/>
