@@ -6,10 +6,10 @@
 <font size="95" color="LightGray" face="Trebuchet MS" style="border:2px solid DodgerBlue">120 Years of Olympic History</font>
 </p>
 <p align="left">
-<font size="50">This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.</font>
-<font size="40">The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event.</font> 
-  
-<font size="30">The dataset included:</font> 
+<font size="20">This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.</font>
+<font size="15">The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event.</font> 
+<br/>
+<font size="7">The dataset included:</font> 
 </p>
 ```markdown
 - ID: Unique number for each athlete
@@ -51,7 +51,7 @@ _Time was the information that this dataset provided that was not included in th
 ### As a result of the size of our dataset we aimed to narrow our scope by focusing on Women's Marathon specifically. This was the sport in which we analyzed the most extensively. 
 <br/><br/>
 <p align="center">
-<font size="60" color="Tomato">Context Information</font>
+<font size="15" color="Tomato">Context Information</font>
 </p>
 <br/>
 ## Medal Counts by Country for Men and Women's Marathon
@@ -63,7 +63,7 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 ### These graphs show use the countries that are most represented in our future graphs that are broken down by medal type.
 <br/><br/>
 <p align="center">
-<font size="60" color="Tomato">Answering our Questions</font>
+<font size="25" color="Tomato">Answering our Questions</font>
 </p>
 <br/>
 ## Change in Average BMI Over Time for Men and Women's Marathon
