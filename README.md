@@ -1,8 +1,9 @@
 <html>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png">
 </html>
-
-# 120 Years of Olympic History 
+<p align="center">
+<font size="60">120 Years of Olympic History </font>
+</p>
 <br/>
 ## This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. 
 ### The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event. 
@@ -49,12 +50,12 @@ _Time was the information that this dataset provided that was not included in th
 <br/>
 ## Medal Counts by Country for Men and Women's Marathon
 <p align="center">
-  <img src="Women's Marathon Medal Count.png" width="285" hspace="20"/> 
-  <img src="Men's Marathon Medal Count.png" width="295" hspace="20"/>
+  <img src="Women's Marathon Medal Count.png" width="100%" hspace="20"/> 
+  <img src="Men's Marathon Medal Count.png" style="100%"/>
 </p>
 ### 
 <br/>
-## This visualization examines the change in average BMI over time between men and women in the marathon.
+## Change in Average BMI Over Time for Men and Women's Marathon
 <p align="center">
   <img src="Marathon BMI.png" width="320" hspace="20"/>
 </p>
