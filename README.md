@@ -2,7 +2,7 @@
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png">
 </html>
 <p align="center">
-<font size="60">120 Years of Olympic History </font>
+<font size="90" color="DodgerBlue">120 Years of Olympic History</font>
 </p>
 <br/>
 ## This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. 
@@ -48,8 +48,10 @@ _Time was the information that this dataset provided that was not included in th
 ```
 ### As a result of the size of our dataset we aimed to narrow our scope by focusing on Women's Marathon specifically. This was the sport in which we analyzed the most extensively. 
 <br/>
-
-# Context Information
+<p align="center">
+<font size="60" color="Tomato">Context Information</font>
+</p>
+<br/>
 ## Medal Counts by Country for Men and Women's Marathon
 <p align="center">
   <img src="Women's Marathon Medal Count.png" width="100%"> 
@@ -57,7 +59,10 @@ _Time was the information that this dataset provided that was not included in th
 </p>
 ### 
 <br/>
-# Answering our Questions
+<p align="center">
+<font size="60" color="Tomato">Answering our Questions</font>
+</p>
+<br/>
 ## Change in Average BMI Over Time for Men and Women's Marathon
 <p align="center">
   <img src="Marathon BMI.png" width="320" hspace="20"/>
