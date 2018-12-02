@@ -3,7 +3,7 @@
 </html>
 <br/>
 <p align="center">
-<font size="110" color="LightGray" face="Trebuchet MS" style="background-color:rgba(52, 87, 81, 0.5);">120 Years of Olympic History</font>
+<font style="100%" color="LightGray" face="Trebuchet MS" style="background-color:rgba(52, 87, 81, 0.5);">120 Years of Olympic History</font>
 </p>
 <br/>
 ## This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. 
