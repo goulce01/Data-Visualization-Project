@@ -1,6 +1,7 @@
 <html>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png">
 </html>
+<br/>
 <p align="center">
 <font size="90" color="DodgerBlue">120 Years of Olympic History</font>
 </p>
