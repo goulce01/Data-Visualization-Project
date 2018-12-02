@@ -41,20 +41,23 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 _Time was the information that this dataset provided that was not included in the original dataset._
 <br/>
 <br/>
-## The questions we tried to answer were as follows:
+# The questions we tried to answer were as follows:
 ```markdown
 1. What factors contribute to the performance of an athlete?
 2. How are athletes changing, per sport, over time?
 ```
-### As a result of the very large size of our dataset we aimed to narrow our scope by focusing on Women's Marathon specifically. This was the sport in which we analyzed the most extensively. 
+### As a result of the size of our dataset we aimed to narrow our scope by focusing on Women's Marathon specifically. This was the sport in which we analyzed the most extensively. 
 <br/>
+
+# Context Information
 ## Medal Counts by Country for Men and Women's Marathon
 <p align="center">
-  <img src="Women's Marathon Medal Count.png" width="100%" hspace="20"/> 
+  <img src="Women's Marathon Medal Count.png" width="100%"> 
   <img src="Men's Marathon Medal Count.png" style="100%"/>
 </p>
 ### 
 <br/>
+# Answering our Questions
 ## Change in Average BMI Over Time for Men and Women's Marathon
 <p align="center">
   <img src="Marathon BMI.png" width="320" hspace="20"/>
