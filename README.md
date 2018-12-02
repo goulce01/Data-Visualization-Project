@@ -68,8 +68,8 @@ _Time was the information that this dataset provided that was not included in th
 
 
 <p float="center">
-  <img src="Gymnastics BMI.png" width="350" />
-  <img src="Swim BMI.png" width="350" /> 
+  <img src="Gymnastics BMI.png" width="200" />
+  <img src="Swim BMI.png" width="250" /> 
 </p>
 
 
