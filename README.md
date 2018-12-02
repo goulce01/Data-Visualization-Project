@@ -5,12 +5,8 @@
 <p align="center">
 <font size="20" color="White" face="Trebuchet MS" style="border:2px solid DodgerBlue">120 Years of Olympic History</font>
 </p>
-<p align="left">
-<font size="4">This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.</font>
-</p>
-<p align="left">
-<font size="3">The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event.</font> 
-</p>
+## This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
+### The file contains 271,116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event.
 <br/>
 <p align="left">
 <font size="4">The dataset included:</font> 
@@ -35,9 +31,7 @@
 _Note that the Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on._
 <br/>
 <br/>
-<p align="left">
-<font size="4">We also pulled data from a Wikipedia page detailing the [2016 Summer Olympics Women's Marathon results.](https://en.wikipedia.org/wiki/Athletics_at_the_2016_Summer_Olympics_–_Women%27s_marathon)</font>
-</p>
+## We also pulled data from a Wikipedia page detailing the [2016 Summer Olympics Women's Marathon results.](https://en.wikipedia.org/wiki/Athletics_at_the_2016_Summer_Olympics_–_Women%27s_marathon)
 <br/>
 <p align="left">
 <font size="4">The dataset included:</font> 
@@ -51,7 +45,9 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 _Time was the information that this dataset provided that was not included in the original dataset._
 <br/>
 <br/>
-# The questions we tried to answer were as follows:
+<p align="left">
+<font size="5" color="white">The questions we tried to answer were as follows:</font> 
+</p>
 ```markdown
 1. What factors contribute to the performance of an athlete?
 2. How are athletes changing, per sport, over time?
@@ -64,6 +60,7 @@ _Time was the information that this dataset provided that was not included in th
 <br/>
 ## Medal Counts by Country for Men and Women's Marathon
 <p align="center">
+  <font size="5" color="White">Medal Counts by Country for Men and Women's Marathon</font>
   <img src="Women's Marathon Medal Count.png" width="90%"> 
   <img src="Men's Marathon Medal Count.png" width="90%"/>
 </p>
@@ -71,7 +68,7 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 ### These graphs show use the countries that are most represented in our future graphs that are broken down by medal type.
 <br/><br/>
 <p align="center">
-<font size="25" color="Tomato">Answering our Questions</font>
+<font size="15" color="Tomato">Answering our Questions</font>
 </p>
 <br/>
 ## Change in Average BMI Over Time for Men and Women's Marathon
@@ -108,7 +105,7 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 ### 
 <br/><br/>
 <p align="center">
-<font size="60" color="Tomato">Summary</font>
+<font size="15" color="Tomato">Summary</font>
 </p>
 <br/>
 ### Our 
