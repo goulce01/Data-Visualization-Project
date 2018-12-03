@@ -50,23 +50,21 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 <font align="left" size="5">2. How are athletes changing, per sport, over time?</font><br/>
 </p>
 ### As a result of the size of our dataset we aimed to narrow our scope by focusing on the marathon specifically. This was the sport in which we analyzed the most extensively. Specifically, we make many comparisons between male and female athletes who competed in the marathon event.
-<br/>
-
+<br/><br/>
+<p align="center">
+<font size="7" style="border:2px solid Tomato">Context Information</font>
+</p>
 <p align="center">
 <img src="mens mar pic.jpg" width="75%"><br/>
 <img src="london-2012-marathon.jpg" width="75%"><br/>
-<font size="4">History of the marathon (specifically women's marathon) in the Olympics</font>
+<font size="4">Brief history of the marathon (specifically women's marathon) in the Olympics</font>
 </p>
 <br/>
 <p align="center">
 <img src="first women marathon.jpg" width="75%"><br/>
 <font size="4">Joan Benoit of the U.S. breaks away from the pack on her way to winning the first Olympic women's marathon during the 1984 Summer Olympic Games in Los Angeles. Before 1984, women were not allowed to compete in the marathon due to the fear that they weren't strong enough or that they might damage their reproductive organs.</font>
 </p>
-
-<br/><br/>
-<p align="center">
-<font size="7" style="border:2px solid Tomato">Context Information</font>
-</p>
+<br/>
 <p align="center">
   <font size="5">Medal Counts by Country for Men and Women's Marathon</font><br/>
   <img src="Women's Marathon Medal Count.png" width="90%"> 
