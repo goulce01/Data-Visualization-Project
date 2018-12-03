@@ -42,6 +42,7 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 - Nationality
 - Time
 ```
+
 <br/><br/>
 <p style="border:2px solid Gold">
 <font align="center" size="6" color="White">Questions</font><br/>
@@ -49,10 +50,13 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 <font align="left" size="5">2. How are athletes changing, per sport, over time?</font><br/>
 </p>
 ### As a result of the size of our dataset we aimed to narrow our scope by focusing on the marathon specifically. This was the sport in which we analyzed the most extensively. Specifically, we make many comparisons between male and female athletes who competed in the marathon event.
+<br/>
+
 <html>
-<img align="center" src="mens mar pic.jpg" width="75%"/>
-<img align="center" src="london-2012-marathon.jpg" width="75%"/>
+<img src="mens mar pic.jpg" width="75%">
+<img src="london-2012-marathon.jpg" width="75%">
 </html>
+
 <br/><br/>
 <p align="center">
 <font size="7" style="border:2px solid Tomato">Context Information</font>
