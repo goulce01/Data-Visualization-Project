@@ -42,14 +42,14 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 - Nationality
 - Time
 ```
-<br/><br/><br/>
+<br/><br/>
 <p style="border:2px solid Gold">
 <font align="center" size="6" color="White">Questions</font><br/>
 <font align="left" size="5">1. What factors contribute to the performance of an athlete?</font><br/>
 <font align="left" size="5">2. How are athletes changing, per sport, over time?</font><br/>
 </p>
+### As a result of the size of our dataset we aimed to narrow our scope by focusing on the marathon specifically. This was the sport in which we analyzed the most extensively. Specifically, we make many comparisons between male and female athletes who competed in the marathon event.
 <html>
-<font align="left" size="4">As a result of the size of our dataset we aimed to narrow our scope by focusing on the marathon specifically. This was the sport in which we analyzed the most extensively. Specifically, we make many comparisons between male and female athletes who competed in the marathon event. </font><br/>
 <img align="center" src="mens mar pic.jpg" width="75%"/>
 <img align="center" src="london-2012-marathon.jpg" width="75%"/>
 </html>
@@ -63,9 +63,7 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
   <img src="Men's Marathon Medal Count.png" width="90%"/>
 </p>
 _The Unified Team was the name used for the sports team of the former Soviet Union at the 1992 Winter Olympics in Albertville and the 1992 Summer Olympics in Barcelona._
-<p align="center">
-  <font size="4">These graphs show us the countries that are most represented in our future graphs that are broken down by medal type.</font>
-</p>
+### These graphs show us the countries that are most represented in our future graphs that are broken down by medal type.
 <br/><br/>
 <p align="center">
 <font size="7" style="border:2px solid Tomato">Answering our Questions</font>
@@ -73,38 +71,38 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 <p align="center">
   <font size="5">Change in Average BMI Over Time for Men and Women's Marathon</font><br/>
   <img src="Marathon BMI.png" width="90%"/>
-  <font align="left" size="4">Analysis</font>
 </p>
+### Analysis 
 <br/>
 <p align="center">
   <font size="5">Height Distributions of Men and Women's Marathon Non-Medalists vs. Medalists</font><br/>
   <img src="Height Dist of Non Medalists.png" width="45%"/> 
   <img src="Height Dist by Medal Type.png" width="45%"/>
-  <font align="left" size="4">Analysis</font>
 </p>
+### Analysis 
 <br/>
 <p align="center">
   <font size="5">Weight Distributions of Men and Women's Marathon Non-Medalists vs. Medalists</font><br/>
   <img src="Weight Dist of Non Medalists.png" width="45%"/> 
   <img src="Weight Dist by Medal Type.png" width="45%"/>
-  <font align="left" size="4">Analysis</font>
 </p>
+### Analysis 
 <br/>
 <p align="center">
   <font size="5">Age Distributions of Men and Women's Marathon Non-Medalists vs. Medalists</font><br/>
   <img src="Age Dist of Non Medalists.png" width="45%"/> 
   <img src="Age Dist by Medal Type.png" width="45%"/>
-  <font align="left" size="4">Analysis</font>
 </p>
+### Analysis 
 <br/>
 <p align="center">
   <font size="5">BMI Distributions of Men and Women's Marathon Non-Medalists vs. Medalists</font><br/>
   <img src="BMI Dist of Non Medalists.png" width="45%"/> 
   <img src="BMI Dist by Medal Type.png" width="45%"/>
-  <font align="left" size="4">Analysis</font><br/>
 </p>
+### Analysis 
 <br/><br/>
 <p align="center">
 <font size="7" style="border:2px solid Tomato">Summary</font><br/>
-<font align="left" size="4">Analysis</font>
 </p>
+### Analysis
