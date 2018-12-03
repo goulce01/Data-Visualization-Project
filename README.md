@@ -63,7 +63,9 @@ _Time was the information that this dataset provided that was not included in th
   <img src="Men's Marathon Medal Count.png" width="90%"/>
 </p>
 _The Unified Team was the name used for the sports team of the former Soviet Union at the 1992 Winter Olympics in Albertville and the 1992 Summer Olympics in Barcelona._
-### These graphs show us the countries that are most represented in our future graphs that are broken down by medal type.
+<p align="center">
+  <font size="4">These graphs show us the countries that are most represented in our future graphs that are broken down by medal type.</font>
+</p>
 <br/><br/>
 <p align="center">
 <font size="6.5" style="border:2px solid Tomato">Answering our Questions</font>
@@ -71,24 +73,28 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 <p align="center">
   <font size="5">Change in Average BMI Over Time for Men and Women's Marathon</font><br/>
   <img src="Marathon BMI.png" width="90%"/>
+  <font size="4">Analysis</font>
 </p>
 <br/>
 <p align="center">
   <font size="5">Height Distributions of Men and Women's Marathon Non-Medalists vs. Medalists</font><br/>
   <img src="Height Dist of Non Medalists.png" width="45%"/> 
   <img src="Height Dist by Medal Type.png" width="45%"/>
+  <font size="4">Analysis</font>
 </p>
 <br/>
 <p align="center">
   <font size="5">Weight Distributions of Men and Women's Marathon Non-Medalists vs. Medalists</font><br/>
   <img src="Weight Dist of Non Medalists.png" width="45%"/> 
   <img src="Weight Dist by Medal Type.png" width="45%"/>
+  <font size="4">Analysis</font>
 </p>
 <br/>
 <p align="center">
   <font size="5">Age Distributions of Men and Women's Marathon Non-Medalists vs. Medalists</font><br/>
   <img src="Age Dist of Non Medalists.png" width="45%"/> 
   <img src="Age Dist by Medal Type.png" width="45%"/>
+  <font size="4">Analysis</font>
 </p>
 <br/>
 <p align="center">
