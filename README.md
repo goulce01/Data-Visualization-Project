@@ -32,6 +32,7 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 <br/>
 <br/>
 ## We also pulled data from a Wikipedia page detailing the [2016 Summer Olympics Women's Marathon results.](https://en.wikipedia.org/wiki/Athletics_at_the_2016_Summer_Olympics_–_Women%27s_marathon)
+### Time was the information that this dataset provided that was not included in the original dataset.
 <p align="left">
 <font size="4">The dataset included:</font> 
 </p>
@@ -41,7 +42,6 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 - Nationality
 - Time
 ```
-_Time was the information that this dataset provided that was not included in the original dataset._
 <br/><br/><br/>
 <p style="border:2px solid Gold">
 <font align="center" size="6" color="White">Questions</font><br/>
