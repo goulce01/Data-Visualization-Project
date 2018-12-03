@@ -83,14 +83,14 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 ### Analysis 
 <br/>
 <p align="center">
-  <font size="5">Height Distributions of Men and Women's Marathon Non-Medalists vs. Medalists</font><br/>
+  <font size="5">Height Distributions of Men and Women's Marathon Non-Medalists vs. Medalists (in centimeters)</font><br/>
   <img src="Height Dist of Non Medalists.png" width="45%"/> 
   <img src="Height Dist by Medal Type.png" width="45%"/>
 </p>
 ### Analysis 
 <br/>
 <p align="center">
-  <font size="5">Weight Distributions of Men and Women's Marathon Non-Medalists vs. Medalists</font><br/>
+  <font size="5">Weight Distributions of Men and Women's Marathon Non-Medalists vs. Medalists (in kilograms)</font><br/>
   <img src="Weight Dist of Non Medalists.png" width="45%"/> 
   <img src="Weight Dist by Medal Type.png" width="45%"/>
 </p>
