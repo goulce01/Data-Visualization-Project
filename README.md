@@ -1,4 +1,4 @@
-<html align="left">
+<html>
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png">
 </html>
 <br/>
@@ -48,8 +48,8 @@ _Time was the information that this dataset provided that was not included in th
 <font align="left" size="5">1. What factors contribute to the performance of an athlete?</font><br/>
 <font align="left" size="5">2. How are athletes changing, per sport, over time?</font><br/>
 </p>
-### As a result of the size of our dataset we aimed to narrow our scope by focusing on the marathon specifically. This was the sport in which we analyzed the most extensively. 
 <html align="center">
+<font align="left" size="4">As a result of the size of our dataset we aimed to narrow our scope by focusing on the marathon specifically. This was the sport in which we analyzed the most extensively. Specifically, we make many comparisons between male and female athletes who competed in the marathon event. </font><br/>
 <img src="mens mar pic.jpg" width="75%"/>
 <img src="london-2012-marathon.jpg" width="75%"/>
 </html>
