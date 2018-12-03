@@ -1,4 +1,4 @@
-<html>
+<html align="center">
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png">
 </html>
 <br/>
@@ -49,9 +49,13 @@ _Time was the information that this dataset provided that was not included in th
 <font align="left" size="5">2. How are athletes changing, per sport, over time?</font><br/>
 </p>
 ### As a result of the size of our dataset we aimed to narrow our scope by focusing on Women's Marathon specifically. This was the sport in which we analyzed the most extensively. 
+<html align="center">
+<img src="mens mar pic.jpg" width="90%"/>
+<img src="london-2012-marathon.jpg" width="90%"/>
+</html>
 <br/><br/>
 <p align="center">
-<font size="8" style="border:2px solid Tomato">Context Information</font>
+<font size="6" style="border:2px solid Tomato">Context Information</font>
 </p>
 <p align="center">
   <font size="5">Medal Counts by Country for Men and Women's Marathon</font><br/>
@@ -62,7 +66,7 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 ### These graphs show us the countries that are most represented in our future graphs that are broken down by medal type.
 <br/><br/>
 <p align="center">
-<font size="8" style="border:2px solid Tomato">Answering our Questions</font>
+<font size="6" style="border:2px solid Tomato">Answering our Questions</font>
 </p>
 <p align="center">
   <font size="5">Change in Average BMI Over Time for Men and Women's Marathon</font><br/>
@@ -95,6 +99,6 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 </p>
 <br/><br/>
 <p align="center">
-<font size="8" style="border:2px solid Tomato">Summary</font><br/>
+<font size="6" style="border:2px solid Tomato">Summary</font><br/>
 <font size="4">Analysis</font>
 </p>
