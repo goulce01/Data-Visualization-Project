@@ -52,10 +52,11 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 ### As a result of the size of our dataset we aimed to narrow our scope by focusing on the marathon specifically. This was the sport in which we analyzed the most extensively. Specifically, we make many comparisons between male and female athletes who competed in the marathon event.
 <br/>
 
-<html>
+<p align="center">
 <img src="mens mar pic.jpg" width="75%">
 <img src="london-2012-marathon.jpg" width="75%">
-</html>
+<font size="5">History of the marathon (specifically women's marathon) in the Olympics</font><br/>
+</p>
 
 <br/><br/>
 <p align="center">
