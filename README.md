@@ -1,5 +1,5 @@
 <html>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png">
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png">
 </html>
 <br/>
 <p align="center">
@@ -55,7 +55,7 @@ _Time was the information that this dataset provided that was not included in th
 </html>
 <br/><br/>
 <p align="center">
-<font size="7" style="border:2px solid Tomato">Context Information</font>
+<font size="6.5" style="border:2px solid Tomato">Context Information</font>
 </p>
 <p align="center">
   <font size="5">Medal Counts by Country for Men and Women's Marathon</font><br/>
@@ -66,7 +66,7 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 ### These graphs show us the countries that are most represented in our future graphs that are broken down by medal type.
 <br/><br/>
 <p align="center">
-<font size="7" style="border:2px solid Tomato">Answering our Questions</font>
+<font size="6.5" style="border:2px solid Tomato">Answering our Questions</font>
 </p>
 <p align="center">
   <font size="5">Change in Average BMI Over Time for Men and Women's Marathon</font><br/>
@@ -99,6 +99,6 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 </p>
 <br/><br/>
 <p align="center">
-<font size="7" style="border:2px solid Tomato">Summary</font><br/>
+<font size="6" style="border:2px solid Tomato">Summary</font><br/>
 <font size="4">Analysis</font>
 </p>
