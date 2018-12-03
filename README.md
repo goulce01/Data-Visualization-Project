@@ -54,10 +54,13 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 
 <p align="center">
 <img src="mens mar pic.jpg" width="75%">
-</p>
-<p align="center">
 <img src="london-2012-marathon.jpg" width="75%">
 <font size="4">History of the marathon (specifically women's marathon) in the Olympics</font><br/>
+</p>
+<br/>
+<p align="center">
+<img src="first women marathon.jpg" width="75%">
+<font size="4">Joan Benoit of the U.S. breaks away from the pack on her way to winning the first Olympic women's marathon during the 1984 Summer Olympic Games in Los Angeles. Before 1984, women were not allowed to compete in the marathon due to the fear that they weren't strong enough or that they might damage their reproductive organs.</font>
 </p>
 
 <br/><br/>
