@@ -54,8 +54,10 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 
 <p align="center">
 <img src="mens mar pic.jpg" width="75%">
+</p>
+<p align="center">
 <img src="london-2012-marathon.jpg" width="75%">
-<font size="5">History of the marathon (specifically women's marathon) in the Olympics</font><br/>
+<font size="4">History of the marathon (specifically women's marathon) in the Olympics</font><br/>
 </p>
 
 <br/><br/>
