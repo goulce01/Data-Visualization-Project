@@ -78,7 +78,9 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 </p>
 <p align="center">
   <font size="5">Change in Average BMI Over Time for Men and Women's Marathon</font><br/>
-  <img src="Marathon BMI.png" width="90%"/>
+  <img src="Marathon BMI.png" width="90%"/><br/>
+  <img src="BMI3.png" width="45%"/> 
+  <img src="BMI Chart.png" width="45%"/>
 </p>
 ### Analysis 
 <br/>
