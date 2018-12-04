@@ -84,7 +84,7 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
   <img src="BMI3.png" width="40%" hspace="20"/> 
   <img src="BMI Chart.png" width="40%"/>
 </p>
-### Analysis 
+### The mean BMI values would suggest that, despite the spike between 1900 and 1920, the BMI for men has been trending downwards. Women do not appear on the graph until 1984, but their mean BMI also shows a downward trend. 
 <br/>
 <p align="center">
   <font size="5">Height Distributions of Men and Women's Marathon Non-Medalists vs. Medalists (in centimeters)</font><br/>
@@ -107,16 +107,19 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
   <img src="Age Dist of Non Medalists.png" width="45%"/> 
   <img src="Age Dist by Medal Type.png" width="45%"/>
 </p>
-### Analysis 
+### For men, the average age of the marathoners is 28.85. The medalists average 27.7 years in age, which is slightly lower than the average. The minimum is 16 and the maximum is 52.
+### The average age of women who ran the marathon is 30. Medalists average slightly younger, at 29 years. The minimum is 18 and the maximum is 48. We can see that on average, women marathoners are slightly older than men.
 <br/>
 <p align="center">
   <font size="5">BMI Distributions of Men and Women's Marathon Non-Medalists vs. Medalists</font><br/>
   <img src="BMI NEW NON MEDALIST.png" width="45%"/> 
   <img src="BMI NEW MEDALIST.png" width="45%"/>
 </p>
-### Analysis 
+### The average BMI for men is 20, which is in the normal weight range. The BMI of male medalists is similar. The minimum is 16, and the maximum is 31.
+### For women, the average BMI is 18.6, which is only slightly higher than the unhealthy range. The medalists’ average is approximately the same. The minimum is 15.42 and the maximum is 26.2
+### While it is not clear from this summary, when we looked finish times and BMI, we saw a slight correlation between. After looking at the data, we determined R2 to be .17, showing that 17% of the variation can be explained by linear regression. This shows that this correlation is most likely not statistically significant.
 <br/><br/>
 <p align="center">
 <font size="7" style="border:2px solid Tomato">Summary</font><br/>
 </p>
-### Analysis
+### This is only a rudimentary analysis of what best predicts a marathon athlete's success, as it is primarily based on height and weight, which were combined to calculate BMI, as well as age. 
