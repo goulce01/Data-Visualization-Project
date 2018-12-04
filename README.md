@@ -91,14 +91,16 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
   <img src="Height Dist of Non Medalists.png" width="45%"/> 
   <img src="Height Dist by Medal Type.png" width="45%"/>
 </p>
-### Analysis 
+### The average height for men running the marathon is 172 cm, or 5’ 7”. We can see that average height for men who medaled is 171 cm, which is slightly lower than the general average. The minimum height is 148 cm, or 4’ 10”, and the maximum is 200 cm, or 6’ 7”. 
+### The average for women is 162 cm, or 5’ 4”. Like with the men, the average height is slightly lower for medalists at 161 cm. The minimum is 147 cm, or 4’ 10”, and the maximum is 183 cm, or 6’.
 <br/>
 <p align="center">
   <font size="5">Weight Distributions of Men and Women's Marathon Non-Medalists vs. Medalists (in kilograms)</font><br/>
   <img src="Weight Dist of Non Medalists.png" width="45%"/> 
   <img src="Weight Dist by Medal Type.png" width="45%"/>
 </p>
-### Analysis 
+### The average weight for men marathon runners is 60 kg, or 132 lbs. The average weight of men who medaled is almost exactly the same. The minimum weight is 42 kg, or 93 lbs, and the maximum is 106 kg, or 234 lbs.
+### For women, the average weight is 49 kg, or 108 lbs. The average for women medalists is 48 kg, or 105 lbs, which is only slightly lower than the general average. The minimum is 35 kg, or 77 lbs, and the maximum is 67 kg, or 147 lbs.
 <br/>
 <p align="center">
   <font size="5">Age Distributions of Men and Women's Marathon Non-Medalists vs. Medalists</font><br/>
