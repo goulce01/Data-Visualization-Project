@@ -84,7 +84,7 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
   <img src="BMI3.png" width="40%" hspace="20"/> 
   <img src="BMI Chart.png" width="40%"/>
 </p>
-### The mean BMI values would suggest that, despite the spike between 1900 and 1920, the BMI for men has been trending downwards. Women do not appear on the graph until 1984, but their mean BMI also shows a downward trend. 
+### The mean BMI values would suggest that, despite the spike between 1900 and 1920, the BMI for men has been trending downwards. Women do not appear on the graph until 1984 when they were first allowed to race the marathon in the Olympics, but their mean BMI also shows a downward trend. Further analysis of the athelete's BMIs is to follow. 
 <br/>
 <p align="center">
   <font size="5">Height Distributions of Men and Women's Marathon Non-Medalists vs. Medalists (in centimeters)</font><br/>
@@ -116,10 +116,16 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
   <img src="BMI NEW MEDALIST.png" width="45%"/>
 </p>
 ### The average BMI for men is 20, which is in the normal weight range. The BMI of male medalists is similar. The minimum is 16, and the maximum is 31.
-### For women, the average BMI is 18.6, which is only slightly higher than the unhealthy range. The medalists’ average is approximately the same. The minimum is 15.42 and the maximum is 26.2
-### While it is not clear from this summary, when we looked finish times and BMI, we saw a slight correlation between. After looking at the data, we determined R2 to be .17, showing that 17% of the variation can be explained by linear regression. This shows that this correlation is most likely not statistically significant.
+### For women, the average BMI is 18.6, which is only slightly higher than the underweight range. The medalists’ average is approximately the same. The minimum is 15.42 and the maximum is 26.2
+<br/>
+<p align="center">
+  <font size="5">Women's Marathon Times vs. BMI at 2016 Rio Olympics</font><br/>
+  <img src="BMI vs Time.png" width="90%"/> 
+</p>
+### While it is not clear from this summary, when we looked at finish times and BMI, we saw a slight correlation between the two. After looking at the data, we determined R2 to be .17, showing that 17% of the variation can be explained by linear regression. This shows that this correlation is most likely not statistically significant.
 <br/><br/>
 <p align="center">
 <font size="7" style="border:2px solid Tomato">Summary</font><br/>
 </p>
-### This is only a rudimentary analysis of what best predicts a marathon athlete's success, as it is primarily based on height and weight, which were combined to calculate BMI, as well as age. 
+### This is only a rudimentary analysis of what best predicts a marathon athlete's success, as it is primarily based on height and weight, which were combined to calculate BMI, as well as age. We found that the average weight and BMI of medalists versus non-medalists does not vary much. Furthermore, we observed that medalists were usually only slightly younger and slightly shorter than the "average" participant. 
+### However, there are many other factors that determine an athlete's success and make an elite runner stand out among the rest. These factors include, but are not limited to, training volume, body size, tendon function and the length and frequency of strides. One could also hypothesize that the country an athlete is competing for could have an effect on their performance because they may have differing levels of support and training.
