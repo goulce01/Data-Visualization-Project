@@ -67,7 +67,7 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 <br/>
 <p align="center">
   <font size="5">Medal Counts by Country for Women's Marathon</font><br/>
-  <img src="Screen Shot WOMEN.png" width="90%"><br/>
+  <img src="Screen Shot WOMEN.png" width="90%"><br/><br/>
   <font size="5">Medal Counts by Country for Men's Marathon</font><br/>
   <img src="Screen Shot 2018-12-03 at 10.13.46 PM.png" width="90%"/>
 </p>
@@ -80,8 +80,8 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 <p align="center">
   <font size="5">Change in Average BMI Over Time for Men and Women's Marathon</font><br/>
   <img src="BMI NEW DOTS.png" width="90%"/><br/><br/>
-  <font size="4">We reached our conclusions using the following calculation.</font><br/>
-  <img src="BMI3.png" width="40%"/> 
+  <font size="4">We reached our conclusions using the following calculation:</font><br/>
+  <img src="BMI3.png" width="40%" hspace="20"/> 
   <img src="BMI Chart.png" width="40%"/>
 </p>
 ### Analysis 
