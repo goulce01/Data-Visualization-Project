@@ -67,8 +67,8 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 <br/>
 <p align="center">
   <font size="5">Medal Counts by Country for Men and Women's Marathon</font><br/>
-  <img src="WOMEN MEDAL .png" width="90%"><br/>
-  <img src="MEN MEDAL.png" width="90%"/>
+  <img src="Screen Shot WOMEN.png" width="90%"><br/>
+  <img src="Screen Shot 2018-12-03 at 10.13.46 PM.png" width="90%"/>
 </p>
 _The Unified Team was the name used for the sports team of the former Soviet Union at the 1992 Winter Olympics in Albertville and the 1992 Summer Olympics in Barcelona._
 ### These graphs show us the countries that are most represented in our future graphs that are broken down by medal type.
@@ -79,7 +79,7 @@ _The Unified Team was the name used for the sports team of the former Soviet Uni
 <p align="center">
   <font size="5">Change in Average BMI Over Time for Men and Women's Marathon</font><br/>
   <img src="BMI NEW DOTS.png" width="90%"/><br/><br/>
-  <font size="4">We reached our conclusions using the following calculation. Suspiciously, our results would suggest that all of the marathon athletes were obese.</font><br/>
+  <font size="4">We reached our conclusions using the following calculation.</font><br/>
   <img src="BMI3.png" width="40%"/> 
   <img src="BMI Chart.png" width="40%"/>
 </p>
