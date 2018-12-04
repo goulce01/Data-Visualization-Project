@@ -67,7 +67,7 @@ _Note that the Winter and Summer Games were held in the same year up until 1992.
 <br/>
 <p align="center">
   <font size="5">Medal Counts by Country for Men and Women's Marathon</font><br/>
-  <img src="WOMEN MEDAL .png" width="90%"> 
+  <img src="WOMEN MEDAL .png" width="90%"><br/>
   <img src="MEN MEDAL.png" width="90%"/>
 </p>
 _The Unified Team was the name used for the sports team of the former Soviet Union at the 1992 Winter Olympics in Albertville and the 1992 Summer Olympics in Barcelona._
